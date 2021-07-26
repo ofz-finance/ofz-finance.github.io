@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>about</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="36"></rect>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择语言" transform="translate(-70.000000, -628.000000)">
+            <g id="about" transform="translate(70.000000, 628.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g id="编组-35" mask="url(#mask-2)">
+                    <g transform="translate(-35.000000, -60.000000)">
+                        <path d="M53.2519064,64 C45.393913,64 39,70.3901003 39,78.2519064 C39,86.1137124 45.3901003,92.5 53.2519064,92.5 C54.9698446,92.5 59.2548527,92.5 66.1069307,92.5 C66.6592045,92.4999803 67.1069109,92.0522738 67.1069109,91.5 C67.1069109,91.2107621 66.9816741,90.9356924 66.7635202,90.7457781 C65.9520565,90.0393565 64.89385,89.1220441 63.5889007,87.993841 C66.5939222,84.8828465 67.5,81.9334762 67.5,78.2519064 C67.5,70.393913 61.1098997,64 53.2519064,64 Z" id="路径" stroke="none" fill="#C6A500" fill-rule="nonzero"></path>
+                        <g id="编组" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"></g>
+                        <line x1="53" y1="76.5" x2="53" y2="85.5" id="直线" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round"></line>
+                        <circle id="椭圆形" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="53" cy="72" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

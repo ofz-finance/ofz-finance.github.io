@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>charts1</title>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择语言" transform="translate(-24.000000, -674.000000)">
+            <g id="charts1" transform="translate(24.000000, 674.000000)">
+                <rect id="矩形" x="0" y="0" width="36" height="36"></rect>
+                <path d="M21,4.73205081 L27.9903811,8.76794919 C29.8467875,9.83974596 30.9903811,11.8205081 30.9903811,13.9641016 L30.9903811,22.0358984 C30.9903811,24.1794919 29.8467875,26.160254 27.9903811,27.2320508 L21,31.2679492 C19.1435935,32.339746 16.8564065,32.339746 15,31.2679492 L8.00961894,27.2320508 C6.15321248,26.160254 5.00961894,24.1794919 5.00961894,22.0358984 L5.00961894,13.9641016 C5.00961894,11.8205081 6.15321248,9.83974596 8.00961894,8.76794919 L15,4.73205081 C16.8564065,3.66025404 19.1435935,3.66025404 21,4.73205081 Z" id="多边形" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"></path>
+                <g id="编组" transform="translate(10.500000, 13.000000)" stroke="#FFD400" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                    <g id="编组-8">
+                        <polyline id="路径-2" points="0 9 5.07962543 3.68584668 8.31370803 6.97612281 14.1176471 0.9"></polyline>
+                        <polyline id="路径-3" points="11.4705882 0 15 0 15 3.6"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
