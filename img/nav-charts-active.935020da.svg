@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>news</title>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择语言" transform="translate(-90.000000, -676.000000)">
+            <g id="编组-32" transform="translate(0.000000, 44.000000)">
+                <g id="news" transform="translate(90.000000, 632.000000)">
+                    <rect id="矩形" x="0" y="0" width="36" height="36"></rect>
+                    <g id="编组-9" transform="translate(4.000000, 4.000000)">
+                        <path d="M2,7.55614449 L7.50816391,7.55614449 L7.50816391,7.55614449 L17.7999276,0.982543895 C18.2653706,0.685254077 18.8836877,0.821569184 19.1809775,1.28701221 C19.2836592,1.44777268 19.3382184,1.6345481 19.3382184,1.82530304 L19.3382184,27.2545576 C19.3382184,27.8068424 18.8905031,28.2545576 18.3382184,28.2545576 C18.1604237,28.2545576 17.9858437,28.2071557 17.8324643,28.1172353 L7.88366378,22.2846432 L7.88366378,22.2846432 L2,22.2846432 C0.8954305,22.2846432 1.3527075e-16,21.3892127 0,20.2846432 L0,9.55614449 C-3.57315355e-16,8.45157499 0.8954305,7.55614449 2,7.55614449 Z" id="路径-4" fill="#C6A500" fill-rule="nonzero"></path>
+                        <line x1="7.51264129" y1="12" x2="7.51264129" y2="18.0895745" id="路径-6" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="23.9552584" y1="8.88903082" x2="28.5359887" y2="5.13881119" id="路径-7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="23.9552584" y1="15.4479449" x2="28.9552584" y2="15.4479449" id="路径-9" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="23.9552584" y1="21.9609774" x2="28.5359887" y2="25.7570786" id="路径-10" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
