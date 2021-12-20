@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Community</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.513725 0 0 0 0 0.392157 0 0 0 0 0.882353 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GameFi判断" transform="translate(-1089.000000, -629.000000)">
+            <g id="编组-12" transform="translate(1089.000000, 394.000000)">
+                <g id="编组-9" transform="translate(0.000000, 204.000000)">
+                    <g id="Community" transform="translate(0.000000, 31.000000)">
+                        <circle id="椭圆形" cx="20" cy="20" r="20"></circle>
+                        <g filter="url(#filter-1)" id="编组-4" stroke-linecap="round" stroke-linejoin="round">
+                            <g transform="translate(6.666667, 9.643601)">
+                                <path d="M10.325202,18.9295369 C16.0276535,18.9295369 20.6504039,14.6920157 20.6504039,9.46476846 C20.6504039,4.23752118 16.0276535,0 10.325202,0 C4.62275038,0 0,4.23752118 0,9.46476846 C0,11.8156937 0.9350439,13.9664271 2.48282115,15.6215171 C2.93791179,16.1081608 1.59362543,18.8574222 2.14646805,19.2508562 C2.80078735,19.7165066 5.3701833,17.8061453 6.13637355,18.1182558 C7.41657173,18.6397492 8.83396855,18.9295369 10.325202,18.9295369 Z" id="椭圆形" stroke="#979797" stroke-width="3"></path>
+                                <path d="M17.9056163,10.4654514 C17.5196177,11.3488653 17.3072685,12.3132177 17.3072685,13.3230338 C17.3072685,15.2330067 18.0669305,16.9803368 19.3243982,18.3249891 C19.6941295,18.7203552 18.6019848,20.9539501 19.0511333,21.2735895 C19.5827249,21.6519 21.6701909,20.0998565 22.2926703,20.3534258 C23.3327475,20.7771051 24.4842897,21.0125386 25.6958192,21.0125386" id="路径" stroke="#979797" stroke-width="3" transform="translate(21.501544, 15.899392) scale(-1, 1) translate(-21.501544, -15.899392) "></path>
+                                <line x1="6.54158512" y1="7.14927882" x2="11.7748532" y2="7.14927882" id="直线-2" stroke="#979797" stroke-width="3"></line>
+                                <line x1="6.54158512" y1="11.5103356" x2="14.3914873" y2="11.5103356" id="直线-3" stroke="#979797" stroke-width="3"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
